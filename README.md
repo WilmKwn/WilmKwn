@@ -4,7 +4,6 @@
 - 💞️ I’m looking to collaborate on various projects that will expand my horizons.
 - 📫 How to reach me 
 -       williamkwon03@gmail.com
--       
 
 <!---
 WilmKwn/WilmKwn is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
